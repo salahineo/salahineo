@@ -67,6 +67,10 @@
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13732184)
 
+### 🤔 Problem Solving [WIP]
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/salahineo?theme=dark&font=ABeeZee)
+
 ---
 
 ### 📫 Contact
