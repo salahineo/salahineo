@@ -6,8 +6,8 @@
 
 - 💻 &nbsp; I’m a passionate Frontend Developer.
 - 🎓 &nbsp; My background in Computer Science has provided me with a strong foundation of technical skills.
-- 💼 &nbsp; I am continuously expanding my knowledge and aim to master Full-Stack Development.
-- 🌱 &nbsp; I am always eager to explore new technologies in the world of Web Development and grow my expertise.
+- 💼 &nbsp; I continuously expand my knowledge and aim to master Full-Stack Development.
+- 🌱 &nbsp; I am always eager to explore new technologies in Web Development and grow my expertise.
 - 📈 &nbsp; I believe in constant learning, and while I have acquired many web development skills, I understand there's always more to learn.
 
 ---
@@ -55,7 +55,7 @@
 
 ![Salahineo's Github Stats](https://github-readme-stats.vercel.app/api?username=salahineo&rank_icon=github&include_all_commits=true&hide=contribs,prs&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
-![Salahineo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salahineo&hide=HTML,css&langs_count=20&layout=donut&hide_border=true&theme=tokyonight)
+![Salahineo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salahineo&hide=HTML,css&langs_count=20&layout=compact&hide_border=true&theme=tokyonight)
 
 ![Salahineo's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=salahineo&hide_border=true&theme=tokyonight)
 
@@ -66,6 +66,10 @@
 ### ❔ Stack Overflow
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13732184)
+
+### 🤔 Problem Solving [WIP]
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/salahineo?theme=dark&font=ABeeZee)
 
 ---
 
