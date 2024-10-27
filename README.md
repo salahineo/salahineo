@@ -69,7 +69,7 @@
 
 ---
 
-### 📫 Contact
+### ✉️ Contact
 
 [![LinkTree](https://img.shields.io/badge/-Checkout%20My%20LinkTree-404040?style=flat&logo=linktree&logoColor=ffffff)](https://linktree.salahineo.com)
 
