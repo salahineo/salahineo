@@ -67,9 +67,13 @@
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13732184)
 
-### 🤔 Problem Solving [WIP]
+### 🔨 Codeium
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/salahineo?theme=dark&font=ABeeZee)
+[![autocomplete](https://codeium.com/badges/user/salahineo/autocomplete)](https://codeium.com/profile/salahineo)
+
+[//]: # (### 🤔 Problem Solving [WIP])
+
+[//]: # (![LeetCode Stats]&#40;https://leetcard.jacoblin.cool/salahineo?theme=dark&font=ABeeZee&#41;)
 
 ---
 
