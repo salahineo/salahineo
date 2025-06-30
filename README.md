@@ -8,7 +8,7 @@
 - 🎓 &nbsp; My background in Computer Science has provided me with a strong foundation of technical skills.
 - 💼 &nbsp; I continuously expand my knowledge and aim to master Full-Stack Development.
 - 🌱 &nbsp; I am always eager to explore new technologies in Web Development and grow my expertise.
-- 📈 &nbsp; I believe in constant learning, and while I have acquired many web development skills, I understand there's always more to learn.
+- 📈 &nbsp; I believe in constant learning, and while I have acquired many web development skills.
 
 ---
 
